@@ -1,0 +1,15 @@
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\sfml_NEW_PROJECTS\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+D:\sfml_NEW_PROJECTS\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+D:\sfml_NEW_PROJECTS\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+D:\sfml_NEW_PROJECTS\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+D:\sfml_NEW_PROJECTS\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+D:\sfml_NEW_PROJECTS\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
