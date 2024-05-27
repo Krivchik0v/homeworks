@@ -1,0 +1,15 @@
+D:\sfml_NEW_PROJECTS\HomeworkNew2\bin\Debug\net6.0\HomeworkNew2.exe
+D:\sfml_NEW_PROJECTS\HomeworkNew2\bin\Debug\net6.0\HomeworkNew2.deps.json
+D:\sfml_NEW_PROJECTS\HomeworkNew2\bin\Debug\net6.0\HomeworkNew2.runtimeconfig.json
+D:\sfml_NEW_PROJECTS\HomeworkNew2\bin\Debug\net6.0\HomeworkNew2.dll
+D:\sfml_NEW_PROJECTS\HomeworkNew2\bin\Debug\net6.0\HomeworkNew2.pdb
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\HomeworkNew2.csproj.AssemblyReference.cache
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\HomeworkNew2.GeneratedMSBuildEditorConfig.editorconfig
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\HomeworkNew2.AssemblyInfoInputs.cache
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\HomeworkNew2.AssemblyInfo.cs
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\HomeworkNew2.csproj.CoreCompileInputs.cache
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\HomeworkNew2.dll
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\refint\HomeworkNew2.dll
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\HomeworkNew2.pdb
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\HomeworkNew2.genruntimeconfig.cache
+D:\sfml_NEW_PROJECTS\HomeworkNew2\obj\Debug\net6.0\ref\HomeworkNew2.dll
